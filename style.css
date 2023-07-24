@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-color: aliceblue;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+}
+.dashform{
+    
+}
+main input{
+    display:flex;
+    margin: auto;
+    margin-top: 0.5rem;
+}
+main button{
+    margin-top: 1rem;
+}
+
